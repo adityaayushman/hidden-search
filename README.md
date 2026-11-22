@@ -1,5 +1,7 @@
 # Hidden Search
 
+**Live demo:** https://adityaayushman.github.io/hidden-search/
+
 An expanding search bar in plain HTML, CSS and JavaScript. No frameworks, no build step.
 
 ## Behaviour
