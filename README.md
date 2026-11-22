@@ -2,7 +2,7 @@
 
 **Live demo:** https://adityaayushman.github.io/hidden-search/
 
-An expanding search bar in plain HTML, CSS and JavaScript. No frameworks, no build step.
+An expanding search bar in plain HTML, CSS and JavaScript, built while following the course. No frameworks, no build step.
 
 ## Behaviour
 
@@ -27,3 +27,7 @@ npx serve .
 ## Notes
 
 This is a UI component demo. The input does not run a search.
+
+## Credits
+
+This is an exercise from the [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) course by Brad Traversy (original: `hidden-search`). The code is unchanged from the original. It is used under the MIT license in `LICENSE`.
